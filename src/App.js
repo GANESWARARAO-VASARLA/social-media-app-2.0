@@ -32,6 +32,10 @@ function App() {
       element: <Login />,
     },
     {
+      path: "/social-media-app-facebook-clone",
+      element: <Login />,
+    },
+    {
       path: "/register",
       element: <Register />,
     },
@@ -62,7 +66,7 @@ function App() {
   ]);
   return (
     <div className={darkMode ? "app dark" : "app"}>
-      <RouterProvider router={router} />
+      <RouterProvider router= {router} />
     </div>
   );
 }
