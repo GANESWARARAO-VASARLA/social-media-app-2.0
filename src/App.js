@@ -35,7 +35,7 @@ function App() {
       element: <Register />,
     },
     {
-      path: "/",
+      path: "social-media-app-facebook-clone",
       element: (
         <AuthRoute>
           <Home />
