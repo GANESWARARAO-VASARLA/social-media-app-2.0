@@ -68,7 +68,7 @@ const Register = () => {
                 src={
                   img
                     ? URL.createObjectURL(img)
-                    : "/assets/profileCover/DefaultProfile.jpg"
+                    : "https://res.cloudinary.com/dwydkvzl6/image/upload/v1679536532/DefaultProfile_nosuxo.jpg"
                 }
                 alt=""
                 className="profileImg"

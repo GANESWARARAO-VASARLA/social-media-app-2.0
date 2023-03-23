@@ -124,7 +124,7 @@ const EditProfile = () => {
           <div className="profileRightTop">
             <div className="profileCover">
               <img
-                src="/assets/profileCover/profilecover.jpg"
+                src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679228206/7e7d00b357ac960c733c5dd516dc0eaa_bszp1a.jpg"
                 alt=""
                 className="profileCoverImg"
               />
@@ -149,7 +149,7 @@ const EditProfile = () => {
                   src={
                     img
                       ? URL.createObjectURL(img)
-                      : "/assets/profileCover/DefaultProfile.jpg"
+                      : "https://res.cloudinary.com/dwydkvzl6/image/upload/v1679536532/DefaultProfile_nosuxo.jpg"
                   }
                   alt=""
                 />

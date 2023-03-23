@@ -17,7 +17,7 @@ const Profile = () => {
           <div className="profileRightTop">
             <div className="profileCover">
               <img
-                src="/assets/profileCover/profilecover.jpg"
+                src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679553390/profilecover_p0nv54.jpg"
                 alt=""
                 className="profileCoverImg"
               />

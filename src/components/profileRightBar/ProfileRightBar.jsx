@@ -69,7 +69,7 @@ const ProfileRightBar = () => {
       <div className="profileRightBarFollowings">
         <div className="profileRightBarFollowing">
           <img
-            src="/assets/person/friend1.jpg"
+            src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679552307/friend1_oophbh.jpg"
             alt=""
             className="profileRightBarFollowingImg"
           />
@@ -77,7 +77,7 @@ const ProfileRightBar = () => {
         </div>
         <div className="profileRightBarFollowing">
           <img
-            src="/assets/person/friend2.jpg"
+            src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679552415/friend2_xtkkv9.jpg"
             alt=""
             className="profileRightBarFollowingImg"
           />
@@ -85,7 +85,7 @@ const ProfileRightBar = () => {
         </div>
         <div className="profileRightBarFollowing">
           <img
-            src="/assets/person/friend3.jpg"
+            src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679552472/friend3_zodtbd.jpg"
             alt=""
             className="profileRightBarFollowingImg"
           />
@@ -93,7 +93,7 @@ const ProfileRightBar = () => {
         </div>
         <div className="profileRightBarFollowing">
           <img
-            src="/assets/person/friend4.jpg"
+            src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679552597/friend4_tgx6r8.jpg"
             alt=""
             className="profileRightBarFollowingImg"
           />
@@ -101,7 +101,7 @@ const ProfileRightBar = () => {
         </div>
         <div className="profileRightBarFollowing">
           <img
-            src="/assets/person/friend5.jpg"
+            src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679552597/friend4_tgx6r8.jpg"
             alt=""
             className="profileRightBarFollowingImg"
           />
@@ -109,7 +109,7 @@ const ProfileRightBar = () => {
         </div>
         <div className="profileRightBarFollowing">
           <img
-            src="/assets/person/friend6.jpg"
+            src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679552597/friend4_tgx6r8.jpg"
             alt=""
             className="profileRightBarFollowingImg"
           />
