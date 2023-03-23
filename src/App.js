@@ -20,7 +20,7 @@ function App() {
 
   const AuthRoute = ({ children }) => {
     if (!currentUser) {
-      return <Navigate to="/social-media-app-facebook-clone" />;
+      return <Navigate to="/login" />;
     }
     return children;
   };
