@@ -7,8 +7,7 @@
  This app should use Firebase for user authentication and storage.
 The login screen should allow users to authenticate with email and password.
 The registration screen should allow new users to create an account with email and password.
-The home screen should show the user's feed of content from other users. The feed should show a mix of content types (text, images, videos).
-The profile screen should show the user's profile information and content. The profile should show a mix of content types (text, images, videos).
+T
 The content creation screen should allow users to create and share content such as text, images, and videos. The content should be stored in Firebase storage.
 The content detail screen should show the details of a particular piece of content, including the author, date, and comments.
 The app should use a provider for state management.
@@ -16,11 +15,18 @@ The app should have unit tests for critical functionality.
 Evaluation
 
 ## home page
-<img src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679585232/Screenshot_2023-03-23_205140_mgcpqg.png">
+<img src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679588760/Screenshot_2023-03-23_215210_vicxfg.png">
 
 
 ## updating profile
-<img src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679585232/Screenshot_2023-03-23_205140_mgcpqg.png">
+<img src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679588768/Screenshot_2023-03-23_215247_xfz6bx.png">
+
+
+## firebase 
+<img src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679588746/Screenshot_2023-03-23_214907_qjkxa4.png"/>
+he home screen should show the user's feed of content from other users. The feed should show a mix of content types (text, images, videos).
+The profile screen should show the user's profile information and content. The profile should show a mix of content types (text, images, videos).
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -62,6 +68,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
+https://www.linkedin.com/in/ganeswararaovasarla/
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
