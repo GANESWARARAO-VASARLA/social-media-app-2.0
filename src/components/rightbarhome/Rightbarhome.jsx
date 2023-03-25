@@ -13,7 +13,7 @@ const Rightbarhome = () => {
           className="birthdayImg"
         />
         <span className="birthdayText">
-          <b>Sarah Dane</b> and <b>other friends</b> have a birthday today
+          <b>Ganesh</b> and <b>other friends</b> have a birthday today
         </span>
       </div>
       <img src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679552750/adv_zwxop7.jpg" alt="" className="rightbarAdvert" />

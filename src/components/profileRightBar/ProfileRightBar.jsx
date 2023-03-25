@@ -89,7 +89,7 @@ const ProfileRightBar = () => {
             alt=""
             className="profileRightBarFollowingImg"
           />
-          <span className="profileRightBarFollowingName">Beverly</span>
+          <span className="profileRightBarFollowingName">pujita</span>
         </div>
         <div className="profileRightBarFollowing">
           <img
@@ -109,7 +109,7 @@ const ProfileRightBar = () => {
         </div>
         <div className="profileRightBarFollowing">
           <img
-            src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679552597/friend4_tgx6r8.jpg"
+            src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679744205/Charming-Hairstyles-for-Teen-Boys-8_sieyr4.jpg"
             alt=""
             className="profileRightBarFollowingImg"
           />

@@ -20,7 +20,7 @@ import { useNavigate } from "react-router-dom";
 
 const EditProfile = () => {
   const [img, setImg] = useState(null);
-  const [setError] = useState(false);
+  const [error, setError] = useState(false);
   const [data, setData] = useState({
     name: "",
     newEmail: "",
@@ -124,7 +124,7 @@ const EditProfile = () => {
           <div className="profileRightTop">
             <div className="profileCover">
               <img
-                src="https://res.cloudinary.com/dwydkvzl6/image/upload/v1679228206/7e7d00b357ac960c733c5dd516dc0eaa_bszp1a.jpg"
+                src="/assets/profileCover/profilecover.jpg"
                 alt=""
                 className="profileCoverImg"
               />
@@ -149,7 +149,7 @@ const EditProfile = () => {
                   src={
                     img
                       ? URL.createObjectURL(img)
-                      : "https://res.cloudinary.com/dwydkvzl6/image/upload/v1679536532/DefaultProfile_nosuxo.jpg"
+                      : "/assets/profileCover/DefaultProfile.jpg"
                   }
                   alt=""
                 />

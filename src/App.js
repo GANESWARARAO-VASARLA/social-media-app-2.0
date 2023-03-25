@@ -1,7 +1,8 @@
-//import ReactDOM from "react-dom/client";
+import ReactDOM from "react-dom/client";
 import {
   createBrowserRouter,
   RouterProvider,
+  Route,
   Navigate,
 } from "react-router-dom";
 import Home from "./pages/home/Home";
@@ -29,8 +30,7 @@ function App() {
     {
       path: "/login",
       element: <Login />,
-    },
-    {
+    },{
       path: "/social-media-app-facebook-clone",
       element: <Login />,
     },
@@ -65,7 +65,7 @@ function App() {
   ]);
   return (
     <div className={darkMode ? "app dark" : "app"}>
-      <RouterProvider router= {router} />
+      <RouterProvider router={router} />
     </div>
   );
 }
