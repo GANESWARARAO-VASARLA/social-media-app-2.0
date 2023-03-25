@@ -30,9 +30,6 @@ function App() {
     {
       path: "/login",
       element: <Login />,
-    },{
-      path: "/social-media-app-facebook-clone",
-      element: <Login />,
     },
     {
       path: "/register",
