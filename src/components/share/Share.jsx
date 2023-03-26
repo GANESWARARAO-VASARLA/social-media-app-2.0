@@ -22,7 +22,7 @@ import {
 import Picker from "@emoji-mart/react";
 
 const Share = () => {
-  const [error,setError] = useState(false);
+  const [setError] = useState(false);
   const { currentUser } = useContext(AuthContext);
   const [input, setInput] = useState("");
   const [showEmojis, setShowEmojis] = useState(false);
